@@ -1,0 +1,25 @@
+﻿  Projict11.cpp
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(40,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(45,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(57,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(88,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(115,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(141,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(155,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(174,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(194,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(199,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(221,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(242,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(263,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(300,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(325,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(354,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(373,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(498,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsBankClient.h(27,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\Projict11.cpp(27,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsBankClient.h(288): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  Projict11.vcxproj -> C:\Users\2021 EN\source\repos\Projict11\Debug\Projict11.exe

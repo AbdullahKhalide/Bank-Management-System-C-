@@ -1,0 +1,17 @@
+﻿  Projict11.cpp
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(40,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(45,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(57,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(194,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(325,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsString.h(373,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsBankClient.h(29,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\2021 EN\source\repos\Projict11\Projict11\Projict11.cpp(29,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\2021 EN\source\repos\Projict11\Projict11\clsBankClient.h(304): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  All 396 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Projict11.vcxproj -> C:\Users\2021 EN\source\repos\Projict11\x64\Release\Projict11.exe
